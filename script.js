@@ -61,6 +61,12 @@ const products = [
     price: ""
   },
   {
+    name: "Composizione con rose e nastri",
+    image: "images/composizione-rose-nastri.jpg",
+    description: "Coppia di addobbi in rose e nastri in raso, per occasioni speciali.",
+    price: ""
+  },
+  {
     name: "Centrotavola floreale rosa",
     image: "images/centrotavola-rosa.jpg",
     description: "Rose rosa e panna con fiocco in raso.",
@@ -112,6 +118,30 @@ const products = [
     name: "Fiocco natalizio rosso",
     image: "images/fiocco-natalizio-rosso.jpg",
     description: "Fiocco in velluto con rose, bacche e pigne.",
+    price: ""
+  },
+  {
+    name: "Fiocco natalizio con rosa rossa",
+    image: "images/fiocco-natalizio-rosa-rossa.jpg",
+    description: "Fiocco in velluto rosso con rosa, pigne, bacche e campanello.",
+    price: ""
+  },
+  {
+    name: "Fiocco natalizio con mongolfiera",
+    image: "images/fiocco-natalizio-mongolfiera.jpg",
+    description: "Grande fiocco in velluto con rosa, bacche, pigne e pendente a mongolfiera.",
+    price: ""
+  },
+  {
+    name: "Fiocco natalizio con elfo",
+    image: "images/fiocco-natalizio-elfo.jpg",
+    description: "Fiocco in velluto con rose rosse e bianche, pigne e simpatico elfo.",
+    price: ""
+  },
+  {
+    name: "Centrotavola natalizio \"Welcome\"",
+    image: "images/centrotavola-welcome.jpg",
+    description: "Casetta in legno, alberello innevato, rose rosse e bastoncino di zucchero.",
     price: ""
   },
   {
